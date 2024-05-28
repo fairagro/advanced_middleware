@@ -1,0 +1,113 @@
+{
+    "@context": {
+        "@language": "en",
+        "@vocab": "https://schema.org/"
+    },
+    "@type": "Dataset",
+    "about": [
+        {
+            "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+            "@type": "Class"
+        }
+    ],
+    "author": [
+        {
+            "@type": "Organization",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "technical support",
+                "email": "Hubert.jochheim@zalf.de",
+                "name": "Hubert Jochheim",
+                "url": ""
+            },
+            "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+        },
+        {
+            "@type": "Organization",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "technical support",
+                "email": "swirth@zalf.de",
+                "name": "Stephan Wirth",
+                "url": ""
+            },
+            "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+        }
+    ],
+    "conditionsOfAccess": [
+        "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "dateCreated": [
+        "2023-11-28"
+    ],
+    "dateModified": [
+        "2023-11-28"
+    ],
+    "datePublished": [
+        "2023-11-28"
+    ],
+    "description": "Soil respiration of a European beech and a Scots pine forest.",
+    "identifier": [
+        "f48d4271-8909-48b9-812e-3b083c5e0116",
+        "https://doi.org/10.4228/zalf-g5pj-m724"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "name": "BonaRes Repository"
+    },
+    "keywords": [
+        "Soil",
+        "soil respiration",
+        "soil air",
+        "soil temperature",
+        "soil water content",
+        "Fagus sylvatica",
+        "Pinus sylvestris",
+        "measurement",
+        "opendata",
+        "Boden",
+        "inspireidentifiziert",
+        "Germany",
+        "Brandenburg",
+        "Barnim",
+        "Ostprignitz-Ruppin"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "name": "Soil respiration of a European beech and a Scots pine forest",
+    "publisher": [
+        {
+            "@type": "Organization",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "technical support",
+                "email": "dataservice@zalf.de",
+                "name": "Leibniz Centre for Agricultural Landscape Research",
+                "telephone": "+49 33432 82 300",
+                "url": ""
+            },
+            "name": "ZALF"
+        }
+    ],
+    "sourceOrganization": [
+        {
+            "@type": "Organization",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "technical support",
+                "email": "Hubert.jochheim@zalf.de",
+                "name": "Hubert Jochheim",
+                "url": ""
+            },
+            "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "@type": "Place",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "52.980000 12.990000 53.150000 13.640000"
+            }
+        }
+    ]
+}

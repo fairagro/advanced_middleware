@@ -1,0 +1,342 @@
+[
+    {
+      "@type": [
+        "https://schema.org/Dataset"
+      ],
+      "https://schema.org/about": [
+        {
+          "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+          "@type": [
+            "https://schema.org/Class"
+          ]
+        }
+      ],
+      "https://schema.org/author": [
+        {
+          "@type": [
+            "https://schema.org/Organization"
+          ],
+          "https://schema.org/contactPoint": [
+            {
+              "@type": [
+                "https://schema.org/ContactPoint"
+              ],
+              "https://schema.org/contactType": [
+                {
+                  "@language": "en",
+                  "@value": "technical support"
+                }
+              ],
+              "https://schema.org/email": [
+                {
+                  "@language": "en",
+                  "@value": "Hubert.jochheim@zalf.de"
+                }
+              ],
+              "https://schema.org/name": [
+                {
+                  "@language": "en",
+                  "@value": "Hubert Jochheim"
+                }
+              ],
+              "https://schema.org/url": [
+                {
+                  "@language": "en",
+                  "@value": ""
+                }
+              ]
+            }
+          ],
+          "https://schema.org/name": [
+            {
+              "@language": "en",
+              "@value": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://schema.org/Organization"
+          ],
+          "https://schema.org/contactPoint": [
+            {
+              "@type": [
+                "https://schema.org/ContactPoint"
+              ],
+              "https://schema.org/contactType": [
+                {
+                  "@language": "en",
+                  "@value": "technical support"
+                }
+              ],
+              "https://schema.org/email": [
+                {
+                  "@language": "en",
+                  "@value": "swirth@zalf.de"
+                }
+              ],
+              "https://schema.org/name": [
+                {
+                  "@language": "en",
+                  "@value": "Stephan Wirth"
+                }
+              ],
+              "https://schema.org/url": [
+                {
+                  "@language": "en",
+                  "@value": ""
+                }
+              ]
+            }
+          ],
+          "https://schema.org/name": [
+            {
+              "@language": "en",
+              "@value": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+            }
+          ]
+        }
+      ],
+      "https://schema.org/conditionsOfAccess": [
+        {
+          "@language": "en",
+          "@value": "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+        }
+      ],
+      "https://schema.org/dateCreated": [
+        {
+          "@language": "en",
+          "@value": "2023-11-28"
+        }
+      ],
+      "https://schema.org/dateModified": [
+        {
+          "@language": "en",
+          "@value": "2023-11-28"
+        }
+      ],
+      "https://schema.org/datePublished": [
+        {
+          "@language": "en",
+          "@value": "2023-11-28"
+        }
+      ],
+      "https://schema.org/description": [
+        {
+          "@language": "en",
+          "@value": "Soil respiration of a European beech and a Scots pine forest."
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@language": "en",
+          "@value": "f48d4271-8909-48b9-812e-3b083c5e0116"
+        },
+        {
+          "@language": "en",
+          "@value": "https://doi.org/10.4228/zalf-g5pj-m724"
+        }
+      ],
+      "https://schema.org/includedInDataCatalog": [
+        {
+          "@type": [
+            "https://schema.org/DataCatalog"
+          ],
+          "https://schema.org/name": [
+            {
+              "@language": "en",
+              "@value": "BonaRes Repository"
+            }
+          ]
+        }
+      ],
+      "https://schema.org/keywords": [
+        {
+          "@language": "en",
+          "@value": "Soil"
+        },
+        {
+          "@language": "en",
+          "@value": "soil respiration"
+        },
+        {
+          "@language": "en",
+          "@value": "soil air"
+        },
+        {
+          "@language": "en",
+          "@value": "soil temperature"
+        },
+        {
+          "@language": "en",
+          "@value": "soil water content"
+        },
+        {
+          "@language": "en",
+          "@value": "Fagus sylvatica"
+        },
+        {
+          "@language": "en",
+          "@value": "Pinus sylvestris"
+        },
+        {
+          "@language": "en",
+          "@value": "measurement"
+        },
+        {
+          "@language": "en",
+          "@value": "opendata"
+        },
+        {
+          "@language": "en",
+          "@value": "Boden"
+        },
+        {
+          "@language": "en",
+          "@value": "inspireidentifiziert"
+        },
+        {
+          "@language": "en",
+          "@value": "Germany"
+        },
+        {
+          "@language": "en",
+          "@value": "Brandenburg"
+        },
+        {
+          "@language": "en",
+          "@value": "Barnim"
+        },
+        {
+          "@language": "en",
+          "@value": "Ostprignitz-Ruppin"
+        }
+      ],
+      "https://schema.org/license": [
+        {
+          "@language": "en",
+          "@value": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "https://schema.org/name": [
+        {
+          "@language": "en",
+          "@value": "Soil respiration of a European beech and a Scots pine forest"
+        }
+      ],
+      "https://schema.org/publisher": [
+        {
+          "@type": [
+            "https://schema.org/Organization"
+          ],
+          "https://schema.org/contactPoint": [
+            {
+              "@type": [
+                "https://schema.org/ContactPoint"
+              ],
+              "https://schema.org/contactType": [
+                {
+                  "@language": "en",
+                  "@value": "technical support"
+                }
+              ],
+              "https://schema.org/email": [
+                {
+                  "@language": "en",
+                  "@value": "dataservice@zalf.de"
+                }
+              ],
+              "https://schema.org/name": [
+                {
+                  "@language": "en",
+                  "@value": "Leibniz Centre for Agricultural Landscape Research"
+                }
+              ],
+              "https://schema.org/telephone": [
+                {
+                  "@language": "en",
+                  "@value": "+49 33432 82 300"
+                }
+              ],
+              "https://schema.org/url": [
+                {
+                  "@language": "en",
+                  "@value": ""
+                }
+              ]
+            }
+          ],
+          "https://schema.org/name": [
+            {
+              "@language": "en",
+              "@value": "ZALF"
+            }
+          ]
+        }
+      ],
+      "https://schema.org/sourceOrganization": [
+        {
+          "@type": [
+            "https://schema.org/Organization"
+          ],
+          "https://schema.org/contactPoint": [
+            {
+              "@type": [
+                "https://schema.org/ContactPoint"
+              ],
+              "https://schema.org/contactType": [
+                {
+                  "@language": "en",
+                  "@value": "technical support"
+                }
+              ],
+              "https://schema.org/email": [
+                {
+                  "@language": "en",
+                  "@value": "Hubert.jochheim@zalf.de"
+                }
+              ],
+              "https://schema.org/name": [
+                {
+                  "@language": "en",
+                  "@value": "Hubert Jochheim"
+                }
+              ],
+              "https://schema.org/url": [
+                {
+                  "@language": "en",
+                  "@value": ""
+                }
+              ]
+            }
+          ],
+          "https://schema.org/name": [
+            {
+              "@language": "en",
+              "@value": "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+            }
+          ]
+        }
+      ],
+      "https://schema.org/spatialCoverage": [
+        {
+          "@type": [
+            "https://schema.org/Place"
+          ],
+          "https://schema.org/geo": [
+            {
+              "@type": [
+                "https://schema.org/GeoShape"
+              ],
+              "https://schema.org/box": [
+                {
+                  "@language": "en",
+                  "@value": "52.980000 12.990000 53.150000 13.640000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@vocab": "http://schema.org/"
+    },
+    "@type": "Person",
+    "address": "Germany\nD-06466\nLeibniz Institute of Plant Genetics and Crop Plant Research (IPK)\nSeeland OT Gatersleben\nCorrensstraße 3",
+    "familyName": "Colmsee",
+    "givenName": "Christian",
+    "name": "Christian Colmsee"
+}

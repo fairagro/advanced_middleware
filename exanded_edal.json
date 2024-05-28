@@ -1,0 +1,535 @@
+[
+    {
+        "@id": "https://doi.ipk-gatersleben.de:443/DOI/14f89a21-e457-4a88-aa35-fc4018c92ec4/f3fe4501-240b-42a8-862c-619fb79628ef/2",
+        "@type": [
+            "http://schema.org/Dataset"
+        ],
+        "http://schema.org/author": [
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@type": [
+                            "http://schema.org/PostalAddress"
+                        ],
+                        "http://schema.org/addressCountry": [
+                            {
+                                "@value": "Germany"
+                            }
+                        ],
+                        "http://schema.org/postalCode": [
+                            {
+                                "@value": "D-06466"
+                            }
+                        ],
+                        "http://schema.org/streetAddress": [
+                            {
+                                "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+                            }
+                        ]
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Colmsee"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Christian"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Christian Colmsee"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@type": [
+                            "http://schema.org/PostalAddress"
+                        ],
+                        "http://schema.org/addressCountry": [
+                            {
+                                "@value": "Germany"
+                            }
+                        ],
+                        "http://schema.org/postalCode": [
+                            {
+                                "@value": "D-06466"
+                            }
+                        ],
+                        "http://schema.org/streetAddress": [
+                            {
+                                "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+                            }
+                        ]
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Flemming"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Steffen"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Steffen Flemming"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@type": [
+                            "http://schema.org/PostalAddress"
+                        ],
+                        "http://schema.org/addressCountry": [
+                            {
+                                "@value": "Germany"
+                            }
+                        ],
+                        "http://schema.org/postalCode": [
+                            {
+                                "@value": "D-06466"
+                            }
+                        ],
+                        "http://schema.org/streetAddress": [
+                            {
+                                "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+                            }
+                        ]
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Klapperstück"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Matthias"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Matthias Klapperstück"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@type": [
+                            "http://schema.org/PostalAddress"
+                        ],
+                        "http://schema.org/addressCountry": [
+                            {
+                                "@value": "Germany"
+                            }
+                        ],
+                        "http://schema.org/postalCode": [
+                            {
+                                "@value": "D-06466"
+                            }
+                        ],
+                        "http://schema.org/streetAddress": [
+                            {
+                                "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+                            }
+                        ]
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Lange"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Matthias"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Matthias Lange"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@type": [
+                            "http://schema.org/PostalAddress"
+                        ],
+                        "http://schema.org/addressCountry": [
+                            {
+                                "@value": "Germany"
+                            }
+                        ],
+                        "http://schema.org/postalCode": [
+                            {
+                                "@value": "D-06466"
+                            }
+                        ],
+                        "http://schema.org/streetAddress": [
+                            {
+                                "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+                            }
+                        ]
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Scholz"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Uwe"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Uwe Scholz"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Friedrich"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Christian"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Christian Friedrich"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Steuernagel"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Burkhard"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Burkhard Steuernagel"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Weise"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Stephan"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Stephan Weise"
+                    }
+                ]
+            }
+        ],
+        "http://schema.org/contributor": [
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Friedrich"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Christian"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Steuernagel"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Burkhard"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Weise"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Stephan"
+                    }
+                ]
+            }
+        ],
+        "http://schema.org/creator": [
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Colmsee"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Christian"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Christian Colmsee"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Flemming"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Steffen"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Steffen Flemming"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Klapperstück"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Matthias"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Matthias Klapperstück"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Lange"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Matthias"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Matthias Lange"
+                    }
+                ]
+            },
+            {
+                "@type": [
+                    "http://schema.org/Person"
+                ],
+                "http://schema.org/address": [
+                    {
+                        "@value": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ],
+                "http://schema.org/familyName": [
+                    {
+                        "@value": "Scholz"
+                    }
+                ],
+                "http://schema.org/givenName": [
+                    {
+                        "@value": "Uwe"
+                    }
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "Uwe Scholz"
+                    }
+                ]
+            }
+        ],
+        "http://schema.org/datePublished": [
+            {
+                "@type": "http://schema.org/Date",
+                "@value": "Sat Jan 01 00:00:00 CET 2011"
+            }
+        ],
+        "http://schema.org/description": [
+            {
+                "@value": "Source code for the LimsLight primary data management system"
+            }
+        ],
+        "http://purl.org/dc/terms/conformsTo": [
+            {
+                "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+                "@type": [
+                    "http://schema.org/CreativeWork"
+                ]
+            }
+        ],
+        "http://schema.org/inLanguage": [
+            {
+                "@value": "en"
+            }
+        ],
+        "http://schema.org/keywords": [
+            {
+                "@value": "bioinformatics, source code, database, LIMS, primary data"
+            }
+        ],
+        "http://schema.org/license": [
+            {
+                "@id": "$licenseURL"
+            }
+        ],
+        "http://schema.org/name": [
+            {
+                "@value": "A case study for efficient management of high throughput primary lab data"
+            }
+        ],
+        "http://schema.org/publisher": [
+            {
+                "@type": [
+                    "http://schema.org/Organization"
+                ],
+                "http://schema.org/name": [
+                    {
+                        "@value": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, D-06466, Germany"
+                    }
+                ]
+            }
+        ]
+    }
+]
