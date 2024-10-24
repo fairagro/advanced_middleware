@@ -4,10 +4,19 @@ version = "0.1.0"
 description = "Advance middleware"
 authors = ["Jorge García Brizuela <jorgito910202@gmail.com>"]
 readme = "README.md"
-packages = [{include = "m4"}]
+homepage = "https://www.fairagro.net/"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
+arctrl = "^2.0.1"
+pyyaml = "^6.0.2"
+pyld = "^2.0.4"
+gitpython = "^3.1.43"
+gitdb = "^4.0.11"
+jsonpath-ng = "^1.7.0"
+fsspreadsheet = "^6.2.0"
+
 
 
 [build-system]

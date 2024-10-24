@@ -1,0 +1,4 @@
+gitlab:
+  namespace: brizuela
+  url: <url-gitlab>
+  token: <token-gitlab>

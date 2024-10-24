@@ -1,0 +1,4 @@
+gitlab:
+  namespace: <namespace-id>
+  url: <url-gitlab>
+  token: <token-gitlab>
